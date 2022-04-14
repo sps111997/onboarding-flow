@@ -1,0 +1,7 @@
+h1 p{
+  text-align: center;
+}
+.imageContainer{
+  display: flex;
+    justify-content: center;
+}
